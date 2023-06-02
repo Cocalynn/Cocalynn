@@ -1,4 +1,4 @@
-### Hi there 👋 (TBC)
+### Hi there 👋 
 
 <!--
 **Cocalynn/Cocalynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,19 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!-- 
 
 <p> <img src="https://komarev.com/ghpvc/?username=Cocalynn&label=Visits&color=green&style=flat" alt="daenges" /> </p>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 <br>
-<br>
+<br> -->
 
+<!-- 
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=400&height=40&lines=Hi+there+I'm+Lynn+%F0%9F%91%8B;Full+Stack+Developer" alt="Headline" /> -->
 
-
-<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=400&height=40&lines=Hi+there+I'm+Lynn+%F0%9F%91%8B;Full+Stack+Developer" alt="Headline" />
-
-
-<summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
 	
