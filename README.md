@@ -34,6 +34,6 @@ Here are some ideas to get you started:
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cocalynn&langs_count=5&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
 </p>
-
-[![Cocalynn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Cocalynn&theme=react&height=300)](https://github.com/7oSkaaa/github-readme-activity-graph)
+<!-- 
+[![Cocalynn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Cocalynn&theme=react&height=300)](https://github.com/7oSkaaa/github-readme-activity-graph) -->
 
